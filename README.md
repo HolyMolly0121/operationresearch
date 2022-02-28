@@ -1,1 +1,2 @@
-# operationresearch
+# operation research
+# Linear Programming with R
